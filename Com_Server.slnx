@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Server/Server.csproj" />
+  <Project Path="ServerCommon/ServerCommon.csproj" />
+  <Project Path="Site/Site.csproj" />
+</Solution>
