@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/솔루션 항목/">
+    <File Path="README.md" />
+  </Folder>
   <Project Path="Server/Server.csproj" />
   <Project Path="ServerCommon/ServerCommon.csproj" />
   <Project Path="Site/Site.csproj" />
